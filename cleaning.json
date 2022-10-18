@@ -1,0 +1,39 @@
+{
+  "cleaner": [
+    {
+      "id": "1",
+      "firstName": "Rainer",
+      "day": "Monday"
+    },
+    {
+      "id": "2",
+      "firstName": "Mikk",
+      "day": "Tuesday"
+    },
+    {
+      "id": "3",
+      "firstName": "Henno",
+      "day": "Wednesday"
+    },
+    {
+      "id": "4",
+      "firstName": "Urmas",
+      "day": "Thursday"
+    },
+    {
+      "id": "5",
+      "firstName": "Meelis",
+      "day": "Friday"
+    },
+    {
+      "id": "6",
+      "firstName": "Lauri",
+      "day": "Saturday"
+    },
+    {
+      "id": "7",
+      "firstName": "Meelis",
+      "day": "Sunday"
+    }
+  ]
+}
